@@ -1,0 +1,6 @@
+number;name;product;store;sales;profit;continue
+1;Erik;banana;1;10;100;Y
+2;Bram;apple;1;15;200;Y
+3;Lars;apple;2;5;150;N
+4;Job;pear;2;10;200;N
+5;Hugo;apple;1;15;150;Y
